@@ -1,0 +1,11 @@
+CLO,Description
+CLO1: Understand the Foundations of Natural Language Processing,"Grasp the basic concepts, history, and developments in NLP. Understand the challenges of language modeling and the structure of human language."
+CLO2: Text Preprocessing and Cleaning,"Learn techniques for preprocessing text data, including tokenization, stemming, lemmatization, and cleaning noisy text data for NLP applications."
+CLO3: Language Modeling and Text Generation,Understand the principles of language modeling. Learn how to build models for text generation using statistical and neural network approaches.
+CLO4: Word Embeddings and Text Representations,"Gain knowledge on representing text as vectors using methods like Word2Vec, GloVe, and BERT. Understand the concept of semantic similarity and its applications."
+CLO5: Machine Translation and Multilingual NLP,Learn about the algorithms and models used for machine translation. Understand the challenges and techniques in multilingual NLP.
+CLO6: Sentiment Analysis and Opinion Mining,"Understand how to extract, identify, and quantify affective states and subjective information from text data."
+CLO7: Information Extraction and Named Entity Recognition,"Learn methods for extracting structured information from unstructured text, including tasks like named entity recognition and relationship extraction."
+CLO8: Question Answering Systems,Understand the components and techniques involved in building systems that can answer questions posed in natural language.
+CLO9: Dialogue Systems and Chatbots,"Learn about the design and implementation of conversational agents and chatbots, focusing on natural language understanding and response generation."
+CLO10: Ethical Considerations in NLP,"Discuss the ethical implications of NLP technologies, including bias, fairness, and privacy concerns. Learn strategies for developing responsible NLP applications."

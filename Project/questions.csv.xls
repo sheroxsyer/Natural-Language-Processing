@@ -1,0 +1,101 @@
+Question,Topic
+What is Natural Language Processing (NLP)?,Foundations of NLP
+Describe the process of tokenization in NLP.,Text Preprocessing
+What are stop words and why are they removed?,Text Preprocessing
+Explain the concept of stemming and lemmatization.,Text Preprocessing
+What is a language model?,Language Modeling
+How do neural networks generate text?,Text Generation
+What are word embeddings?,Text Representations
+Explain the difference between Word2Vec and GloVe.,Text Representations
+What is machine translation?,Machine Translation
+How does a transformer model work?,Multilingual NLP
+What is sentiment analysis?,Sentiment Analysis
+How can NLP be used for opinion mining?,Opinion Mining
+What is named entity recognition (NER)?,Information Extraction
+Describe a use case for relationship extraction.,Information Extraction
+How do question answering systems work?,Question Answering
+What are the components of a dialogue system?,Dialogue Systems
+How do chatbots understand human language?,Chatbots
+What ethical considerations are important in NLP?,Ethical Considerations
+How can bias in language models be mitigated?,Ethical Considerations
+What is the role of privacy in NLP applications?,Ethical Considerations
+Define Natural Language Processing (NLP)?,Foundations of NLP
+Explain the concept of the process of tokenization in NLP.,Text Preprocessing
+What are stop words and why are they removed??,Text Preprocessing
+Describe in detail the concept of stemming and lemmatization.,Text Preprocessing
+Define a language model?,Language Modeling
+How do neural networks generate text??,Text Generation
+What are word embeddings??,Text Representations
+Describe in detail the difference between Word2Vec and GloVe.,Text Representations
+Define machine translation?,Machine Translation
+How does a transformer model work??,Multilingual NLP
+Define sentiment analysis?,Sentiment Analysis
+How can NLP be used for opinion mining??,Opinion Mining
+Define named entity recognition (NER)?,Information Extraction
+Explain the concept of a use case for relationship extraction.,Information Extraction
+How do question answering systems work??,Question Answering
+What are the components of a dialogue system??,Dialogue Systems
+How do chatbots understand human language??,Chatbots
+What ethical considerations are important in NLP??,Ethical Considerations
+How can bias in language models be mitigated??,Ethical Considerations
+Define the role of privacy in NLP applications?,Ethical Considerations
+Define Natural Language Processing (NLP)?,Foundations of NLP
+Explain the concept of the process of tokenization in NLP.,Text Preprocessing
+What are stop words and why are they removed??,Text Preprocessing
+Describe in detail the concept of stemming and lemmatization.,Text Preprocessing
+Define a language model?,Language Modeling
+How do neural networks generate text??,Text Generation
+What are word embeddings??,Text Representations
+Describe in detail the difference between Word2Vec and GloVe.,Text Representations
+Define machine translation?,Machine Translation
+How does a transformer model work??,Multilingual NLP
+Define sentiment analysis?,Sentiment Analysis
+How can NLP be used for opinion mining??,Opinion Mining
+Define named entity recognition (NER)?,Information Extraction
+Explain the concept of a use case for relationship extraction.,Information Extraction
+How do question answering systems work??,Question Answering
+What are the components of a dialogue system??,Dialogue Systems
+How do chatbots understand human language??,Chatbots
+What ethical considerations are important in NLP??,Ethical Considerations
+How can bias in language models be mitigated??,Ethical Considerations
+Define the role of privacy in NLP applications?,Ethical Considerations
+Define Natural Language Processing (NLP)??,Foundations of NLP
+Describe in detail the concept of the process of tokenization in NLP.,Text Preprocessing
+What are stop words and why are they removed???,Text Preprocessing
+Explain the concept of in detail the concept of stemming and lemmatization.,Text Preprocessing
+Define a language model??,Language Modeling
+How do neural networks generate text???,Text Generation
+What are word embeddings???,Text Representations
+Explain the concept of in detail the difference between Word2Vec and GloVe.,Text Representations
+Define machine translation??,Machine Translation
+How does a transformer model work???,Multilingual NLP
+Define sentiment analysis??,Sentiment Analysis
+How can NLP be used for opinion mining???,Opinion Mining
+Define named entity recognition (NER)??,Information Extraction
+Describe in detail the concept of a use case for relationship extraction.,Information Extraction
+How do question answering systems work???,Question Answering
+What are the components of a dialogue system???,Dialogue Systems
+How do chatbots understand human language???,Chatbots
+What ethical considerations are important in NLP???,Ethical Considerations
+How can bias in language models be mitigated???,Ethical Considerations
+Define the role of privacy in NLP applications??,Ethical Considerations
+Define Natural Language Processing (NLP)?,Foundations of NLP
+Explain the concept of the process of tokenization in NLP.,Text Preprocessing
+What are stop words and why are they removed??,Text Preprocessing
+Describe in detail the concept of stemming and lemmatization.,Text Preprocessing
+Define a language model?,Language Modeling
+How do neural networks generate text??,Text Generation
+What are word embeddings??,Text Representations
+Describe in detail the difference between Word2Vec and GloVe.,Text Representations
+Define machine translation?,Machine Translation
+How does a transformer model work??,Multilingual NLP
+Define sentiment analysis?,Sentiment Analysis
+How can NLP be used for opinion mining??,Opinion Mining
+Define named entity recognition (NER)?,Information Extraction
+Explain the concept of a use case for relationship extraction.,Information Extraction
+How do question answering systems work??,Question Answering
+What are the components of a dialogue system??,Dialogue Systems
+How do chatbots understand human language??,Chatbots
+What ethical considerations are important in NLP??,Ethical Considerations
+How can bias in language models be mitigated??,Ethical Considerations
+Define the role of privacy in NLP applications?,Ethical Considerations

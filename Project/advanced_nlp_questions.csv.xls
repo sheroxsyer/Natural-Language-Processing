@@ -1,0 +1,21 @@
+Question,Topic
+How does the Transformer architecture handle long-range dependencies in text?,Transformer Architecture
+In what ways can attention mechanisms improve the interpretability of NLP models?,Attention Mechanisms
+What are the limitations of BERT in understanding contextually ambiguous words?,BERT Limitations
+"How do GPT models generate coherent long-form text, and what are their limitations?",GPT Text Generation
+What advancements have been made in zero-shot learning for NLP tasks?,Zero-shot Learning
+How can adversarial examples impact the robustness of NLP models?,Adversarial Examples
+What techniques are effective for domain adaptation in NLP?,Domain Adaptation
+How can multi-task learning improve the performance of NLP models?,Multi-task Learning
+What are the challenges in developing NLP models for low-resource languages?,Low-resource Languages
+"How does the concept of transfer learning apply to NLP, and what are its benefits?",Transfer Learning
+In what ways do pre-trained language models contribute to the field of sentiment analysis?,Pre-trained Models in Sentiment Analysis
+How can neural machine translation systems be optimized for real-time applications?,Neural Machine Translation
+What are the ethical considerations in deploying NLP models for content moderation?,Ethical Considerations
+How can unsupervised learning techniques be applied to NLP tasks?,Unsupervised Learning
+"What role does context play in entity recognition, and how can models be improved in this area?",Entity Recognition
+How can reinforcement learning be used to improve dialogue systems?,Reinforcement Learning in Dialogue Systems
+What are the key challenges in automatic summarization of documents?,Automatic Summarization
+How can NLP models be made more explainable and transparent?,Explainability
+What are the current techniques for detecting and mitigating bias in NLP models?,Bias Detection and Mitigation
+How does language generation differ from language understanding in NLP models?,Language Generation vs. Understanding
